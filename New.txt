@@ -2,3 +2,4 @@ Hi there! Just trying to understand git functionality
 So now I created a new branch, Lets try to do a pull request and merge them.
 Moving further, Lets try and create two branches and merge them.
   -We are into second branch now.
+Trying to merge branch one with branch two
