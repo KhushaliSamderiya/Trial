@@ -1,0 +1,1 @@
+Hi there! Just trying to understand git functionality
